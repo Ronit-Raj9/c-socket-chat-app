@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Visual Studio Projects\chata_application\cliend2\client2\client2\main.cpp(35,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  client2.vcxproj -> D:\Visual Studio Projects\chata_application\cliend2\client2\x64\Debug\client2.exe
